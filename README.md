@@ -53,7 +53,6 @@ All scripts were developed and tested on **MSYS/Zsh**.
 - disk_monitor.sh → Disk usage normal: 43%
 - log_analyzer.sh → Errors: 2 | Warnings: 1
 - api_fetch.sh → "temperature":20.9 | "windspeed":2.9
-(Screenshots of terminal executions can be included for clarity.)
 
 ---
 
