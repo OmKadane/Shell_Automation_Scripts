@@ -69,5 +69,5 @@ All scripts were developed and tested on **MSYS/Zsh**.
 
 📜 License
 
-This project is licensed under the MIT License. See [LICENSE]
+This project is licensed under the MIT License. See [LICENSE](https://github.com/OmKadane/Shell_Assignment_2.11_Automation_Scripts/blob/main/LICENSE)
  for details.
