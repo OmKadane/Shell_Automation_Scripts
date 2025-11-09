@@ -1,0 +1,4 @@
+System OK
+Error: Failed to load module
+Warning: Low memory
+Critical Error: Disk timeout
