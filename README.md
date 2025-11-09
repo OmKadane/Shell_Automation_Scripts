@@ -1,4 +1,4 @@
-# Shell_Automation_Scripts
+# Shell Automation Scripts
 
 ## Overview
 This repository contains **8 Bash scripts** developed as part of **Weekend Shell Scripts Challenge**.  
@@ -66,7 +66,7 @@ All scripts were developed and tested on **MSYS/Zsh**.
 
 ---
 
-📜 License
+## 📜 License
 
 This project is licensed under the MIT License. See [LICENSE](https://github.com/OmKadane/Shell_Assignment_2.11_Automation_Scripts/blob/main/LICENSE)
  for details.
