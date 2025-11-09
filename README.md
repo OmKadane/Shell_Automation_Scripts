@@ -26,8 +26,8 @@ All scripts were developed and tested on **MSYS/Zsh**.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/OmKadane/Shell_Assignment_2.11_Automation_Scripts.git
-   cd Shell_Assignment_2.11_Automation_Scripts
+   git clone https://github.com/OmKadane/Shell_Automation_Scripts.git
+   cd Shell_Automation_Scripts
    ```
 
 2. Make scripts executable:
